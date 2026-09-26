@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: Fix Profession Expansion Order
+## Notes: Fixes the newest expansion sorting below the previous one in the profession recipe search list.
+## Author: Orosei-Sylvanas (Cipriano Groenendal)
+## Version: 1.2.0
+## X-Category: Professions
+
+FixProfessionExpansionOrder.lua
